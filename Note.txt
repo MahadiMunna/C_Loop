@@ -1,0 +1,26 @@
+# Loop is used to do same task for multiple time.
+# There are three types of loop in c programming:
+    1. For loop
+    2. While loop
+    3. do while loop
+# for loop syntax:
+    for( initialization;condition;increament/decreament ){
+        ~task
+    }
+    ex: for(int i=0;i<=5;i++){
+
+    }
+# break will stop loop and continue will skip that condition.
+# while loop:
+    initialization
+    while(condition){
+        task
+        increament/decreament
+    }
+# do while loop:
+    initialization
+    do{
+        task
+        increament/decreament
+    }
+    while(condition)
